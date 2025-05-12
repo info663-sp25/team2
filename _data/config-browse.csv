@@ -1,6 +1,7 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date
-creator,Creator,,,
-subject,,true
-location,,true
-identifier,,,true,Identifier
+creator,Creator,,,Creator
+subject,Subject,,,Subject
+location,Location,,,Location
+degree_Level,Level,,,Level
+identifier,,,,
