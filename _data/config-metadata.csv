@@ -2,7 +2,7 @@ field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,true,,DCTERMS.title,headline
 creator,Author,true,,DCTERMS.creator,creator
 date,Date Created,true,,DCTERMS.date,dateCreated
-description,Abstract,true,,DCTERMS.description,description
+description,Abstract,,,,DCTERMS.description,description
 subject,Subjects,true,,DCTERMS.subject,keywords
 keywords,Keywords,true,,DCTERMS.keywords,keywords
 location,Location,true,,,contentLocation
