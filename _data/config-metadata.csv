@@ -12,5 +12,5 @@ source,Source,,,,
 identifier,Source Identifier,,,,
 type,Type,true,,DCTERMS.type,object_location
 format,Format,True,,,encodingFormat
-language,Language,True,,DCTERMS.language,
-rightsstatement,,True,,DCTERMS.rights,license
+language,Language,,,DCTERMS.language,
+rightsstatement,,,,DCTERMS.rights,license
