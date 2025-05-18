@@ -5,10 +5,10 @@ creator,Author,true,,DCTERMS.creator,creator
 degree_level,Level,true,,DCTERMS.degree_level,
 discipline,Discipline,true,,DCTERMS.discpline,
 date,Date Created,,,DCTERMS.date,dateCreated
-description,Abstract,,,DCTERMS.description,description
 subject,Subjects,true,,DCTERMS.subject,keywords
 keywords,Keywords,true,,DCTERMS.keywords,keywords
 location,Location,,,,contentLocation
+description,Abstract,,,DCTERMS.description,description
 latitude,,,,,
 longitude,,,,,
 source,Source,,,,
