@@ -1,8 +1,8 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
 creator,Author,true,,DCTERMS.creator,creator
-degree_level,Level,true,,DCTERMS.degree_level,,
-discipline,Discipline,true,,DCTERMS.discpline,,
+degree_level,Level,true,,DCTERMS.degree_level,
+discipline,Discipline,true,,DCTERMS.discpline,
 date,Date Created,,,DCTERMS.date,dateCreated
 description,Abstract,,,DCTERMS.description,description
 subject,Subjects,true,,DCTERMS.subject,keywords
