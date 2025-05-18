@@ -7,3 +7,4 @@ subject,true,true
 location,true,false
 institution,true,true
 degree_level,true,true
+discipline,true,true
