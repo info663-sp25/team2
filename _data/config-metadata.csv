@@ -6,8 +6,8 @@ description,Abstract,,,DCTERMS.description,description
 subject,Subjects,true,,DCTERMS.subject,keywords
 keywords,Keywords,true,,DCTERMS.keywords,keywords
 location,Location,,,,contentLocation
-latitude,Latitude,,,,
-longitude,Longitude,,,,
+latitude,,,,,
+longitude,,,,,
 source,Source,,,,
 identifier,Source Identifier,,,,
 type,Type,true,,DCTERMS.type,object_location
