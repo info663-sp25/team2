@@ -6,7 +6,7 @@ description,Abstract,,,DCTERMS.description,description
 subject,Subjects,true,,DCTERMS.subject,keywords
 keywords,Keywords,true,,DCTERMS.keywords,keywords
 location,Location,,,,contentLocation
-institution,Institution,,,granting_institution,
+institution,Granting Institution,,,granting_institution,
 latitude,,,,,
 longitude,,,,,
 source,Source,,,,
