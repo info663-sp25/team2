@@ -1,5 +1,6 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
+granting_institution,Granting Institution,,,DCTERMS.granting_institution,
 creator,Author,true,,DCTERMS.creator,creator
 degree_level,Level,true,,DCTERMS.degree_level,
 discipline,Discipline,true,,DCTERMS.discpline,
@@ -8,7 +9,6 @@ description,Abstract,,,DCTERMS.description,description
 subject,Subjects,true,,DCTERMS.subject,keywords
 keywords,Keywords,true,,DCTERMS.keywords,keywords
 location,Location,,,,contentLocation
-granting_institution,Granting Institution,,,DCTERMS.granting_institution,
 latitude,,,,,
 longitude,,,,,
 source,Source,,,,
