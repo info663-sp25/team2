@@ -14,5 +14,5 @@ credits: true
 
 ## About
 
-This demo collection showcases how CollectionBuilder-CSV can be used to organize and present Electronic Theses and Dissertations (ETDs). Although the current materials are sample entries, the platform is designed to support the aggregation of ETDs from multiple institutions, offering a flexible and accessible framework for digital scholarship.
+This thesis explores the evolving role of typography within the field of visual communication. Blending design experimentation with critical reflection examines how typographic form operates beyond function, shaping and reflecting meaning across conceptual, aesthetic, and cultural dimensions. By engaging multiple media and contexts, the work investigates typography as a visual language and a cultural artifact, revealing its capacity to influence perception, narrative, and identity.
 
