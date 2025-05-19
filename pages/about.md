@@ -10,7 +10,6 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://upload.wikimedia.org/wikipedia/commons/f/fb/Landscape_during_Laugavegur_hiking_trail_2-CA_reduced.jpg" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
 
 ## About
 
