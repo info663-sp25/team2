@@ -3,7 +3,7 @@ title,Title,,,DCTERMS.title,headline
 alternative,Alternative Title,,,DCTERMS.alternative,
 granting_institution,Granting Institution,true,,DCTERMS.granting_institution,
 creator,Author,true,,DCTERMS.creator,creator
-advisor,Advisior,,,DCTERMS.advisor,
+advisor,Advisor,,,DCTERMS.advisor,
 committeeMember, Committee Members,,,DCTERMS.committeemember,
 degree_level,Level,true,,DCTERMS.degree_level,
 discipline,Discipline,true,,DCTERMS.discpline,
