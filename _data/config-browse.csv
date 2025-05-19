@@ -1,7 +1,8 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date
 creator,Author,,,Author
-subject,Subject,,,Subject
+subject,Subject,true,,Subject
+keywords,Keywords,true,true,Keywords
 granting_institution,Institution,,,Institution
 degree_level,Degree Level,,,Level
 identifier,,,,
