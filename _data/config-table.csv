@@ -1,5 +1,9 @@
 field,display_name
 title,Title
+creator,Author
+grantingInstitution,Granting Institution
+degreeLevel,Level
 date,Date
-description,Description
+description,Abstract
 subject,Subjects
+keywords,Keywords
