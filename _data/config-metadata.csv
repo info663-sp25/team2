@@ -1,7 +1,7 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
 alternative,Alternative Title,,,DCTERMS.alternative,
-granting_institution,Granting Institution,,,DCTERMS.granting_institution,
+granting_institution,Granting Institution,true,,DCTERMS.granting_institution,
 creator,Author,true,,DCTERMS.creator,creator
 advisor,Advisior,,,DCTERMS.advisor,
 committeeMember, Committee Members,,,DCTERMS.committeemember,
