@@ -18,16 +18,16 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: "Electronic Thesis and Dissertation - ETD"
+title: "Typography Electronic Theses and Dissertations Collection"
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Theses and dissertations from the forefront of academic inquiry.
+tagline: Typography theses and dissertations from the forefront of academic inquiry.
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "This thesis investigates the evolving role of typography in visual communication, focusing on its conceptual, aesthetic, and cultural dimensions. Through a series of design experiments and theoretical reflections, the work considers how typographic form engages with meaning across various contexts and media."
+description: ""
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho; history; inland northwest
+keywords: typography; design; type
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: INFO663-Team2
 
 ##########
 # COLLECTION SETTINGS
@@ -50,10 +50,10 @@ metadata: Metadata
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them. 
 #
-organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-organization-link: https://cdil.lib.uidaho.edu/
+organization-name: "INFO663 Team 2 Spring 2025"
+organization-link:
 organization-logo-banner: https://news.miami.edu/grad/_assets/images/images-stories/2021/02/etd-logo-16-9.png
-organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+organization-logo-nav:
 
 ##########
 # ROBOTS EXCLUDE
