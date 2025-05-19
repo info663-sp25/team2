@@ -1,8 +1,8 @@
 field,display_name
 title,Title
 creator,Author
-grantingInstitution,Granting Institution
-degreeLevel,Level
+granting_institution,Granting Institution
+degree_level,Level
 date,Date
 description,Abstract
 subject,Subjects
